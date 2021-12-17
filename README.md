@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done in React. It displays a list of products and their info like availability and price. It lets you search for an item and also to check if it is in stock. 
+
+
+![Screen Shot 2021-12-17 at 3 17 47 PM](https://user-images.githubusercontent.com/33131658/146618465-1ccee72b-66da-4cdb-a209-e7e5e60a6378.png)
+
+
+
 
 ## Available Scripts
 
@@ -13,6 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+
 
 ### `npm test`
 
