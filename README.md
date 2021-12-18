@@ -3,6 +3,10 @@
 This project was done in React. It displays a list of products and their info like availability and price. It lets you search for an item and also to check if it is in stock. 
 
 
+You can check out the app at the following link.
+https://list-search-filter-react.netlify.app/
+
+
 ![Screen Shot 2021-12-17 at 3 17 47 PM](https://user-images.githubusercontent.com/33131658/146618465-1ccee72b-66da-4cdb-a209-e7e5e60a6378.png)
 
 
